@@ -18,7 +18,7 @@ Hi! My name is Mohsin Riaz, and I am currently pursuing a degree in Computer Eng
 - Project 2 — description yahan
 
 ## Blog
-- [Meri Pehli Post](/meri-pehli-post/)
+- [My First Post](/meri-pehli-post/)
 
 ## Contact
 - GitHub: [mohsin-riaz2686](https://github.com/mohsin-riaz2686)
