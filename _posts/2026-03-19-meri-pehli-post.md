@@ -1,5 +1,6 @@
+
 ---
-layout: post
+layout: default
 title: "Meri Pehli Post"
 date: 2026-03-19
 permalink: /meri-pehli-post/
