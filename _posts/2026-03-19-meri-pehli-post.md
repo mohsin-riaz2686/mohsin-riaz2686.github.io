@@ -1,20 +1,19 @@
-
 ---
 layout: default
-title: "Meri Pehli Post"
+title: "My First Post"
 date: 2026-03-19
 permalink: /meri-pehli-post/
 ---
 
-# Meri Pehli Blog Post
+# My First Blog Post
 
-Yeh meri pehli blog post hai!
+This is my very first blog post!
 
-## Apne Baare Mein
-Main Mohsin Riaz hun, Computer Engineering ka student 
-hun Faisalabad mein. Yeh mera personal blog hai jahan 
-main apne experiences share karunga.
+## About Me
+My name is Mohsin Riaz. I am currently pursuing a degree 
+in Computer Engineering in Faisalabad. This is my personal 
+blog where I will share my experiences and journey.
 
-## Aaj Ka Din
-Aaj maine apni GitHub portfolio site banai — 
-bilkul scratch se!
+## Today
+Today I built my own GitHub portfolio site completely 
+from scratch!
