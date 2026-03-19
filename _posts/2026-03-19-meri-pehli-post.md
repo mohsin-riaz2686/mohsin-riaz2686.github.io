@@ -2,6 +2,7 @@
 layout: post
 title: "Meri Pehli Post"
 date: 2026-03-19
+permalink: /meri-pehli-post/
 ---
 
 # Meri Pehli Blog Post
