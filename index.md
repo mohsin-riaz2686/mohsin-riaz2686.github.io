@@ -1,19 +1,24 @@
 ---
 layout: default
-title: Home
+title: Mohsin Riaz
 ---
 
 # Mohsin Riaz
 
-Welcome to my personal portfolio and blog!
-
 ## About Me
-Yahan apne baare mein likho...
+Hi! Main Mohsin Riaz hun. Yeh meri personal portfolio aur blog site hai.
 
 ## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+- Web Development
+- Programming
+- Problem Solving
+
+## Projects
+- Project 1 — description yahan
+- Project 2 — description yahan
+
+## Blog
+- [Meri Pehli Post](./first-post)
 
 ## Contact
 - GitHub: [mohsin-riaz2686](https://github.com/mohsin-riaz2686)
